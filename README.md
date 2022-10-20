@@ -1,5 +1,5 @@
 # Hi there! I am Berta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berta-nieto-94a07924a/)](https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berta-nieto-94a07924a/)](https://www.linkedin.com/in/berta-nieto-94a07924a/)
 [![Gmail Badge](https://img.shields.io/badge/-bnieto3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bnieto3@gmail.com)](mailto:bnieto3@gmail.com)
 
 I'm a junior data analyst.
