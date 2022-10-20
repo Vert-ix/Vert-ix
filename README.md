@@ -1,11 +1,11 @@
 # Hi there! I am Berta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)](https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)
-[![Gmail Badge](https://img.shields.io/badge/-antlopal3rd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antlopal3rd@gmail.com)](mailto:antlopal3rd@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berta-nieto-94a07924a/)](https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)
+[![Gmail Badge](https://img.shields.io/badge/-bnieto3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bnieto3@gmail.com)](mailto:bnieto3@gmail.com)
 
 I'm a junior data analyst.
 
 <!--
-**antlopal3rd/antlopal3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vert-ix/Vert-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
